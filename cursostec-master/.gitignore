@@ -1,0 +1,9 @@
+node_modules
+bin
+!/hadoopbases2/hive/bin
+*.exe
+*.o
+*.dll
+/.metadata/
+!/hadoopbases2/kafka
+*.dat
