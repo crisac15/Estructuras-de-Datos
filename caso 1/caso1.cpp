@@ -86,5 +86,6 @@ int main()
     {
         cout << "El mapa ingresado NO cumple con el teorema de 4 colores, hay 2 o más zonas adyacentes con el mismo color" << endl;
     }
+    cout << "yo que se" << endl;
     return 0;
 }
